@@ -1,0 +1,24 @@
+/*====TAG SELETOR=====*/
+
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+/*======CLASS SELECTOR======*/
+.swift{
+    background-color: rgb(62 84 163);
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+    color: white;
+}
+a:hover{
+    background-color: yellow;
+}
+
+.bag{
+   position: absolute;
+   left: 300px;
+   top: 40px;
+}

@@ -1,0 +1,129 @@
+/*============TAG SELECTOR======*/
+
+body{
+    margin: 0;
+}
+p{
+    line-height: 2;
+}
+
+h1,h2,h3{
+    color: #1bb1b1;;
+}
+
+
+
+/*=========CLASS SELETOR========*/
+.upper-row{
+    background-color: #eaf6f6;
+    text-align: center;
+    width: 100%;
+    padding: 150px;
+    padding-left: 0%;
+    padding-bottom: 0%;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+}
+
+.pepper-row{
+    width: 50%;
+    margin: 30px auto 100px auto;
+    text-align: left;
+}
+
+.mountain2 {
+    position: absolute;
+    left: 400px;
+    bottom: 350px;
+  
+}
+
+.mountain1{
+    margin-top: 50px;
+}
+
+.mountain3{
+    position: absolute;
+    right: 400px;
+    bottom: 500px;
+}
+
+.intro{
+    font-family: 'Sacramento', cursive;
+}
+
+.title{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.host{
+    margin-left: 275px;
+}
+
+.intro2{
+    margin-left: 140px;
+}
+.skill{
+    margin-left: 200px;
+}
+.btn {
+    background:  #11cdd4;
+    background-image: -webkit-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom,  #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background:  #b10e80;
+    background-image: -webkit-linear-gradient(top,  #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top,  #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top,  #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top,  #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom,  #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.button{
+    text-align: center;
+}
+
+
+/*=============ID SELECTOR=======*/
+
+#image1{
+    margin-left: 250px;
+    margin-top: 0%;
+}
+#computer{
+ width: 25%;
+ float: left;
+ margin-right: 30px;
+}
+#pepper{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+

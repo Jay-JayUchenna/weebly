@@ -1,0 +1,92 @@
+/* ======== TAG SELECTOR ======*/
+body{
+    background-color: #f0f2f5;
+}
+
+h1{
+    color: blue;
+    font-size: 300%;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: #1c1e21;
+    font-size: 32px;
+}
+div{
+    background-color: gainsboro;
+    width: 300px;
+    border: white;
+    padding: 200px;
+    margin: auto;
+    text-align: center;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(76, 0, 255);
+    width: 100%;
+}
+label{
+    color: #606770;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 20px;
+    margin-bottom: 0;
+    margin-top: 2px;
+}
+
+
+
+
+
+/* ====== CLASS SELECTOR ======*/
+.first{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 16px;
+    padding: 12px;
+}
+
+.block{
+    background-color: #1c1e21;
+}
+
+.last{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 16px;
+    padding: 12px;
+}
+
+.box{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 25px;
+    width: 100%;
+    padding: 12px;
+    margin-top: 0.5rem;
+}
+.password{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 25px;
+    width: 100%;
+    padding: 12px;
+    margin-top: 0.5rem;
+}
+
+
+
+
+
+
+
+    
+
+
+/*=======ID SELECTOR ======*/
+
+
